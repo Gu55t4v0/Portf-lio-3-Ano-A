@@ -1,0 +1,17 @@
+:root{
+    --background-color:#1E1E1E;
+    --verde:#6FFF57;
+    --branco:#FFFFFF;
+    --botao-ativo:#rgba(58, 55, 94, 1);
+    --botao-inativo:#3A375E;
+    --texto-fundo:#rgba(58, 55, 94, 0.3);
+    }
+    .conteudo-principal {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        max-width: 1200px;
+        width: 100%;
+        margin: 0 auto;
+    }
