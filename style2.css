@@ -1,0 +1,21 @@
+:root {
+    --cor-de-fundo: #22ff04;
+    --verde: #4845e0;
+    --branco: #000000;
+}
+
+body {
+    background-color: var(--cor-de-fundo);
+    color: var(--branco);
+    text-align: center;
+    font-family: 'Chakra Petch', sans-serif;
+}
+
+h1 span{
+    color: var(--verde);
+}
+
+#dias_restantes{
+    color: var(--verde);
+    font-size: 50px;
+}
